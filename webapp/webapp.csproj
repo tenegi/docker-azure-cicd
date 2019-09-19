@@ -2,7 +2,22 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <!--
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultRazorTargetAssemblyInfoAttributes>false</EnableDefaultRazorTargetAssemblyInfoAttributes>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyInformationVersionAttribute>false</GenerateAssemblyInformationVersionAttribute>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyRazorLanguageVersionAttribute>false</GenerateAssemblyRazorLanguageVersionAttribute>
+    <GenerateAssemblyRazorConfigurationNameAttribute>false</GenerateAssemblyRazorConfigurationNameAttribute>
+    <GenerateAssemblyRazorExtensionAssemblyNameAttribute>false</GenerateAssemblyRazorExtensionAssemblyNameAttribute>
+  -->
   </PropertyGroup>
 
 

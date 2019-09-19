@@ -1,6 +1,0 @@
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.csprojAssemblyReference.cache
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.csproj.CoreCompileInputs.cache
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.RazorAssemblyInfo.cache
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.RazorAssemblyInfo.cs
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.AssemblyInfoInputs.cache
-/home/lyndon/git/docker-azure-cicd/webapp/obj/Debug/netcoreapp2.2/webapp.AssemblyInfo.cs
